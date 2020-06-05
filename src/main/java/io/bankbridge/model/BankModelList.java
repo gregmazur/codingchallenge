@@ -1,8 +1,12 @@
 package io.bankbridge.model;
-import java.util.List;
 
+import lombok.Getter;
+
+import java.util.Set;
+
+@Getter
 public class BankModelList {
 	
-	public List<BankModel> banks; 
+	private Set<BankModel> banks;
 
 }

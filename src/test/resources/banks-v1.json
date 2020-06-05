@@ -1,0 +1,10 @@
+{
+	"banks":[
+		{
+			"bic":"1234",
+			"name":"Name",
+			"countryCode":"GB",
+			"auth":"OAUTH"
+		}
+	]
+}
